@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ricardo Orrico
 
-<!--
-**ricardoorrico/ricardoorrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor | 📚 Professor de TI | 🔬 Entusiasta de IoT e Sensores para Saúde  
+☕ Amante de café puro e caminhadas matinais 🚶‍♂️  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🎯 **Formação:** Análise e Desenvolvimento de Sistemas + Especialização em Engenharia de Software e Computação de Alto Desempenho  
+- 🛠 **Áreas de interesse:** IoT, sensores para saúde, eletrônica aplicada, Desenvolvimento Web e Mobile.  
+- 📡 Experiência com **Arduino**, **SO**, **Docker**, **Java**, **JavaScript** e integração de sistemas.  
+- 🏃 Rotina saudável: caminhadas diárias, alimentação equilibrada e muito foco.  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoorrico&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoorrico&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoorrico/)
+
+---
+
+## 💡 Curiosidades sobre mim
+- ☕ Prefiro café puro e forte.
+- 🚶 Caminhada pós-almoço é lei.
+- 🤓 Gosto de ensinar e aprender todos os dias.
+
+---
+
+💬 *"Ensinar é arte, seja um artista."*
