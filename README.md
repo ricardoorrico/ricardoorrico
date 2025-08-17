@@ -17,7 +17,7 @@
 
 ![Java](https://skillicons.dev/icons?i=java,python,c,cs&theme=light)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=light)
-![HTML&CSS&JS%Tailwind](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php)
+![HTML&CSS&JS%Tailwind](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,php)
 ![Figma](https://skillicons.dev/icons?i=figma&theme=light)
 ![AWS&GCP&Azure](https://skillicons.dev/icons?i=aws,gcp,azure&theme=light)
 ![Docker](https://skillicons.dev/icons?i=docker,linux&theme=light)
