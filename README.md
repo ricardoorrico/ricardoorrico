@@ -20,10 +20,9 @@
 ![HTML&CSS&JS](https://skillicons.dev/icons?i=html,css,js)
 ![Figma](https://skillicons.dev/icons?i=figma&theme=light)
 ![AWS&GCP&Azure](https://skillicons.dev/icons?i=aws,gcp,azure&theme=light)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://skillicons.dev/icons?i=docker&theme=light)
+![Flutter](https://skillicons.dev/icons?i=flutter, react&theme=light)
+![Git](https://skillicons.dev/icons?i=git&theme=light)
 
 ---
 
