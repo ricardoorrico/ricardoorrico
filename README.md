@@ -15,7 +15,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java)
 ![HTML&CSS&JS](https://skillicons.dev/icons?i=js,html,css)]
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)
