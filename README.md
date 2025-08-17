@@ -17,9 +17,9 @@
 
 ![Java](https://skillicons.dev/icons?i=java&theme=light)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=light)
-![HTML&CSS&JS](https://skillicons.dev/icons?i=js,html,css)
+![HTML&CSS&JS](https://skillicons.dev/icons?i=html,css,js)
 ![Figma](https://skillicons.dev/icons?i=figma&theme=light)
-![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)
+![AWS&GCP&Azure](https://skillicons.dev/icons?i=aws,gcp,azure&theme=light)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
