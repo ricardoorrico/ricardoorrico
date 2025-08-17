@@ -20,7 +20,7 @@
 ![HTML&CSS&JS%Tailwind](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,php)
 ![Figma](https://skillicons.dev/icons?i=figma&theme=light)
 ![AWS&GCP&Azure](https://skillicons.dev/icons?i=aws,gcp,azure&theme=light)
-![Docker](https://skillicons.dev/icons?i=docker,linux&theme=light)
+![Docker](https://skillicons.dev/icons?i=docker,linux,windows&theme=light)
 ![Flutter](https://skillicons.dev/icons?i=flutter,react&theme=light)
 ![Git](https://skillicons.dev/icons?i=git&theme=light)
 
