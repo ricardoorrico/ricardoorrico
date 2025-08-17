@@ -8,7 +8,7 @@
 ## 🚀 Sobre mim
 - 🎯 **Formação:** Análise e Desenvolvimento de Sistemas + Especialização em Engenharia de Software e Computação de Alto Desempenho  
 - 🛠 **Áreas de interesse:** IoT, sensores para saúde, eletrônica aplicada, Desenvolvimento Web e Mobile.  
-- 📡 Experiência com **Arduino**, **SO**, **Docker**, **Java**, **JavaScript** e integração de sistemas.  
+- 📡 Experiência com **IoT**, **SO**, **Docker**, **Java**, **JavaScript**, **HTML&CSS**, **Kotlin**, **C**, **C#**, **SQL** e integração de sistemas.  
 - 🏃 Rotina saudável: caminhadas diárias, alimentação equilibrada e muito foco.  
 
 ---
@@ -16,7 +16,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML&CSS&JS](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
