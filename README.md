@@ -15,7 +15,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![Java](https://skillicons.dev/icons?i=java,python,c,csharp&theme=light)
+![Java](https://skillicons.dev/icons?i=java,python,c,c#&theme=light)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=light)
 ![HTML&CSS&JS](https://skillicons.dev/icons?i=html,css,js)
 ![Figma](https://skillicons.dev/icons?i=figma&theme=light)
