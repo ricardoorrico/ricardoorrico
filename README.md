@@ -15,12 +15,12 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![Java](https://skillicons.dev/icons?i=java,python,c,c#&theme=light)
+![Java](https://skillicons.dev/icons?i=java,python,c,cs&theme=light)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=light)
-![HTML&CSS&JS](https://skillicons.dev/icons?i=html,css,js)
+![HTML&CSS&JS%Tailwind](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php)
 ![Figma](https://skillicons.dev/icons?i=figma&theme=light)
 ![AWS&GCP&Azure](https://skillicons.dev/icons?i=aws,gcp,azure&theme=light)
-![Docker](https://skillicons.dev/icons?i=docker&theme=light)
+![Docker](https://skillicons.dev/icons?i=docker,linux&theme=light)
 ![Flutter](https://skillicons.dev/icons?i=flutter,react&theme=light)
 ![Git](https://skillicons.dev/icons?i=git&theme=light)
 
