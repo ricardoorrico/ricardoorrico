@@ -18,7 +18,7 @@
 ![Java](https://skillicons.dev/icons?i=java&theme=light)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=light)
 ![HTML&CSS&JS](https://skillicons.dev/icons?i=js,html,css)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Figma](https://skillicons.dev/icons?i=figma&theme=light)
 ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
